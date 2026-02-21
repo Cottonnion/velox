@@ -1,12 +1,7 @@
 <?php
 /**
- * Title: Text and Image
- * Slug: velox/text-image
- * Description: Side-by-side text and image layout.
- * Categories: velox-text-image
- * Keywords: text, image, media, split
- * Block Types: core/media-text
- * Viewport Width: 1280
+ * Text and Image pattern content.
+ * Registered via Velox_Patterns::register_patterns().
  *
  * @package velox
  */

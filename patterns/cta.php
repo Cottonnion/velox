@@ -1,12 +1,7 @@
 <?php
 /**
- * Title: Call to Action
- * Slug: velox/cta
- * Description: Centered call-to-action section.
- * Categories: velox-cta
- * Keywords: call to action, cta, button
- * Block Types: core/group
- * Viewport Width: 1280
+ * CTA pattern content.
+ * Registered via Velox_Patterns::register_patterns().
  *
  * @package velox
  */

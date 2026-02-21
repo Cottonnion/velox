@@ -1,12 +1,7 @@
 <?php
 /**
- * Title: Hero
- * Slug: velox/hero
- * Description: A full-width hero section with heading, description, and CTA buttons.
- * Categories: velox-hero
- * Keywords: hero, banner, cta
- * Block Types: core/group
- * Viewport Width: 1280
+ * Hero pattern content.
+ * Registered via Velox_Patterns::register_patterns().
  *
  * @package velox
  */

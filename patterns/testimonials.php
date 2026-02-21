@@ -1,12 +1,7 @@
 <?php
 /**
- * Title: Testimonials
- * Slug: velox/testimonials
- * Description: Three-column testimonials section.
- * Categories: velox-testimonials
- * Keywords: testimonials, quotes, reviews
- * Block Types: core/columns
- * Viewport Width: 1280
+ * Testimonials pattern content.
+ * Registered via Velox_Patterns::register_patterns().
  *
  * @package velox
  */

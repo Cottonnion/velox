@@ -1,12 +1,7 @@
 <?php
 /**
- * Title: Features
- * Slug: velox/features
- * Description: Three-column features section.
- * Categories: velox-features
- * Keywords: features, benefits, columns
- * Block Types: core/columns
- * Viewport Width: 1280
+ * Features pattern content.
+ * Registered via Velox_Patterns::register_patterns().
  *
  * @package velox
  */
