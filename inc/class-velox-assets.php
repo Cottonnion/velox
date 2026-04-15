@@ -33,6 +33,6 @@ class Velox_Assets {
 	}
 
 	public function register_block_styles(): void {
-		// Add register_block_style() calls here as your design system grows.
+		// TODO
 	}
 }
