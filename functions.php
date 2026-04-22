@@ -16,5 +16,4 @@ define( 'VELOX_DIR', get_template_directory() );
 define( 'VELOX_URI', get_template_directory_uri() );
 
 require_once VELOX_DIR . '/velox-loader.php';
-
 Velox_Loader::init();
