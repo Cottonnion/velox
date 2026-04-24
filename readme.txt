@@ -20,7 +20,6 @@ All design decisions live in theme.json. Swapping the entire look means editing 
 
 = 1.0.0 =
 * Initial release.
-
 == Copyright ==
 
 Velox WordPress Theme, Copyright 2026 Velox Theme Author
