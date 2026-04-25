@@ -1,6 +1,6 @@
 <?php
 /**
- * Velox functions and definitions.
+ * Velox functions and definitions
  *
  * @package velox
  */
